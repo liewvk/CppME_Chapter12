@@ -3,13 +3,13 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../CppME_Chapter12_Example12.11/CppME_Chapter12_Example12.11.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.12/CppME_Chapter12_Example12.12.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.16/CppME_Chapter12_Example12.16.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.21/CppME_Chapter12_Example12.21.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.22/CppME_Chapter12_Example12.22.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.3/CppME_Chapter12_Example12.3.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.6/CppME_Chapter12_Example12.6.vcxproj" />
-  <Project Path="../CppME_Chapter12_Example12.7/CppME_Chapter12_Example12.7.vcxproj" />
-  <Project Path="CppME_Chapter12.vcxproj" />
+  <Project Path="../CppME_Chapter12_Example12.11/CppME_Chapter12_Example12.11.vcxproj" Id="6c9defca-2484-4448-ae25-20b501d39324" />
+  <Project Path="../CppME_Chapter12_Example12.12/CppME_Chapter12_Example12.12.vcxproj" Id="0f394f48-9cfa-4d78-8012-b032fd901c15" />
+  <Project Path="../CppME_Chapter12_Example12.16/CppME_Chapter12_Example12.16.vcxproj" Id="b8bc5e9f-6c94-4660-a26f-61b4d660659d" />
+  <Project Path="../CppME_Chapter12_Example12.21/CppME_Chapter12_Example12.21.vcxproj" Id="105147bd-2687-40d7-b695-f2dcb2fea061" />
+  <Project Path="../CppME_Chapter12_Example12.22/CppME_Chapter12_Example12.22.vcxproj" Id="062fb3d5-ee4f-47d9-ac53-c1bd286f9498" />
+  <Project Path="../CppME_Chapter12_Example12.3/CppME_Chapter12_Example12.3.vcxproj" Id="885f9bb9-da75-4fda-8d11-efcf0073329f" />
+  <Project Path="../CppME_Chapter12_Example12.6/CppME_Chapter12_Example12.6.vcxproj" Id="594a10cc-c6ac-4149-a69b-a97bea3c4ae3" />
+  <Project Path="../CppME_Chapter12_Example12.7/CppME_Chapter12_Example12.7.vcxproj" Id="4214c94c-a7db-4fc8-ad9f-26c876377784" />
+  <Project Path="CppME_Chapter12.vcxproj" Id="b69b73fd-4bbd-4406-a7cd-d760976fafe6" />
 </Solution>
